@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85007372725",
+    "project_id": "ikofi-da1f6",
+    "storage_bucket": "ikofi-da1f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85007372725:android:9fbf1fb7b7c5d361c2c9fc",
+        "android_client_info": {
+          "package_name": "com.example.nfc_wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMQqJm1SLV5CZPA9fzx1CMOyVmTrQ0qCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
